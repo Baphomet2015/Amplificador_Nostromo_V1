@@ -1,0 +1,4 @@
+
+El diagrama del amplificador ha sido desarrollado con KiCAD:
+
+https://kicad.org/
